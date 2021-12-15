@@ -1,10 +1,11 @@
-{"account":<account>,
-    "type":0,
-    "details":{
-        'githubId':<str>,
-        'discordId':<str>,
-        'twitterId':<str>,
-        'gdocsId':<str>
-        }
-    }
-    
+{
+    "account": "64d54a14ba2f83c14de003fac6e8f6ad", 
+    "type": 0, 
+    "details": { 
+        "githubId": "JackLamCHN", 
+        "discordId": "672142168177246250", 
+        "discordName":"Jack Lin#4343", 
+        "twitterId":"JackLin127", 
+        "gdocsId":"jacklam9112@gmail.com" 
+    } 
+} 
